@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Progate</title>
+  <title>contact</title>
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
   <style type="text/css">
   </style>
